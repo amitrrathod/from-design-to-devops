@@ -1,4 +1,4 @@
-# From Design to DevOps – Kubernetesnaut 2026
+# From Design to DevOps – Kubestronaut 2026
 
 This repository documents my career transition from
 Sr. Graphic Designer to DevOps Engineer.
