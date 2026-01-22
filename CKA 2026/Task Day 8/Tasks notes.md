@@ -27,6 +27,7 @@
 #### Troubleshooting the issue
 1. Apply the below YAML and fix the issue with it
 
+```
 apiVersion: v1
 kind:  Deployment
 metadata:
@@ -49,7 +50,7 @@ spec:
   selector:
     matchLabels:
       env: demo
-
+```
 
 2. Apply the below YAML and fix the issue with it
 
