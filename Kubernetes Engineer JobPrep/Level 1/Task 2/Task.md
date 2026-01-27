@@ -4,3 +4,4 @@ The Nautilus DevOps team is delving into Kubernetes for app management. One team
 
 
 - Create a deployment named nginx to deploy the application nginx using the image nginx:latest (ensure to specify the tag)
+

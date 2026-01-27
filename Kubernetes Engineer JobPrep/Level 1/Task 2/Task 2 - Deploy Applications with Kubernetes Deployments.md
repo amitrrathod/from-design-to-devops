@@ -19,4 +19,3 @@ k describe deployments.apps nginx | grep -i image
 
 Image:         nginx:latest
 ```
-
